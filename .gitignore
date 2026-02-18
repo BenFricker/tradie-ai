@@ -1,7 +1,7 @@
 # Virtual environment
 venv/
 
-# Environment variables (NEVER commit this)
+# Environment variables
 .env
 
 # Python cache
